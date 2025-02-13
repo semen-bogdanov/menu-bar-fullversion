@@ -5,8 +5,8 @@
 
 ### Фронтенд:
 
-- Next JS ( God and saviour ⚛︎)
-- Typescript (Peace of mind 🙏🏻)
+- Next JS ( Бог и спаситель ⚛︎)
+- Typescript (Душевное спокойствие 🙏🏻)
 - Sass (Styles 💅🏻)
 - Framer-motion (Animations 🍿)
 - clsx
