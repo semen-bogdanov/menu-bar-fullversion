@@ -3,7 +3,7 @@
 ## Next JS, framer-motion, clsx, jotai, lucide-react, sass, tailwindcss, typescript
 Открыть [http://localhost:3000](http://localhost:3000).
 
-### On the frontend:
+### Фронтенд:
 
 - Next JS ( God and saviour ⚛︎)
 - Typescript (Peace of mind 🙏🏻)
