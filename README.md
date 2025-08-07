@@ -3,7 +3,7 @@
 ## Next JS, framer-motion, clsx, jotai, lucide-react, sass, tailwindcss, typescript
  
 
-### Фронтенд:
+### Frontend:
 
 - Next JS ( Бог и спаситель ⚛︎)
 - Typescript (Душевное спокойствие 🙏🏻)
