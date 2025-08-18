@@ -12,7 +12,7 @@
 - clsx
 - jotai
 - lucide-react
-- tailwindcss
+- tailwind CSS
 
 ```bash
 npm run dev
